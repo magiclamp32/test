@@ -1,1 +1,2 @@
 show ntp association
+show ntp status
